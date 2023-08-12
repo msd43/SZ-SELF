@@ -1,6 +1,6 @@
 const help = (f) => {
-	return `𝙎𝙀𝙇𝙁 𝘽𝙊𝙏
-┏━━⬣ 𝙊𝙒𝙉𝙀𝙍
+	return `MSD 𝘽𝙊𝙏
+┏━━⬣ SAHİP
 ┃
 ┃> [eval]
 ┃=> [eval async]
@@ -24,7 +24,7 @@ const help = (f) => {
 ┃${f}setnama
 ┗⬣
 
-┏━━⬣ 𝙊𝙏𝙃𝙀𝙍
+┏━━⬣ DİĞER
 ┃
 ┃${f}tomp4
 ┃${f}sherelock
@@ -54,14 +54,14 @@ const help = (f) => {
 ┃${f}lirik
 ┗⬣
 
-┏━━⬣ 𝙎𝙏𝘾 𝘾𝙈𝘿
+┏━━⬣ CMD KOD
 ┃
 ┃${f}addcmd
 ┃${f}delcmd
 ┃${f}listcmd
 ┗⬣
 
-┏━━⬣ 𝙁𝙐𝙉
+┏━━⬣ EĞLENCE
 ┃
 ┃${f}readmore
 ┃${f}jadian
